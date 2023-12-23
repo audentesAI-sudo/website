@@ -1,0 +1,17 @@
+title: 
+description: A business home page starter template for Bootstrap 4 featuring marketing boxes and a full width image header.
+
+# disabled because we are using a custom domain
+# baseurl: /business-frontpage 
+
+color-scheme: "#539EB4" # the scheme can also be any string linke "mediumseagreen" or any HEX code like "#00aa55"
+
+sass:
+  sass_dir: /assets/css/_sass
+  style: compressed
+
+include:
+  - _pages
+
+exclude:
+  - .sass-cache
